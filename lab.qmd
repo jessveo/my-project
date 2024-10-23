@@ -1,5 +1,6 @@
 ---
-title: "lab"
+title: "Historic seal survey data at Isles of Shoals"
+author: "Jess Veo"
 format: html
 editor: visual
 ---
